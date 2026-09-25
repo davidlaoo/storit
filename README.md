@@ -1,2 +1,2 @@
 # storit
-Centralized inventory management with flexible extensions
+Gestor de inventario centralizado con extensibilidad
